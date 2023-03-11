@@ -1,0 +1,5 @@
+--- WEB SOCKET
+
+Nos permite mantener una comunicacion activa/activa con la maquina cliente y el servidor.
+El servidor va a poder notificar al cliente en tiempo real cuando algo sucede (Por ejemplo un mensaje privado)
+
